@@ -1,0 +1,401 @@
+Sensor #,Date,time,Conveyor Belt,Machine,Unit,Group,Component,Failure Mode,Disipline,Comments,Delay_min,Avg repair time_hrs,Avg Repair cost_USD
+2,08-29-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,91,1,700
+1,08-28-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,68,1,2300
+2,08-24-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,85,1,700
+2,08-20-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,88,1,700
+1,08-25-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,72,1,2900
+1,08-19-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,62,1,1000
+2,08-28-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,85,1,700
+2,08-25-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,90,2,1400
+4,08-29-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,92,2,1400
+3,08-30-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,92,2,1400
+1,08-24-18,09:23:00 AM,C,Clamping straps,Extremity Unit,1B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,66,2,1200
+3,08-20-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,69,2,2301
+2,08-29-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,69,2,2301
+4,08-26-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,86,2,1400
+3,08-25-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,86,2,1400
+1,08-30-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,69,2,1500
+2,08-30-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,87,2,1400
+4,08-20-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,89,2,1400
+3,08-21-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,89,2,1400
+1,08-29-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,72,2,2300
+3,08-31-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,73,2,2901
+2,08-26-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,73,2,2901
+3,08-28-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,63,2,1001
+2,08-20-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,63,2,1001
+4,08-27-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,86,2,1400
+3,08-29-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,86,2,1400
+1,08-20-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,69,3,1200
+4,08-25-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,91,3,2100
+3,08-26-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,91,3,2100
+5,08-30-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,93,3,2100
+4,08-31-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,93,3,2100
+1,08-31-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,72,3,3200
+3,08-30-17,06:45:00 PM,C,Clamping straps,Extremity Unit,2B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,67,3,1201
+2,08-25-18,09:23:00 AM,C,Clamping straps,Extremity Unit,2B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,67,3,1201
+4,08-21-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,70,3,2302
+3,08-30-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,70,3,2302
+5,08-27-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,87,3,2100
+4,08-26-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,87,3,2100
+3,08-25-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,70,3,1501
+2,08-31-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,70,3,1501
+4,08-28-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,88,3,2100
+3,08-31-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,88,3,2100
+5,08-21-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,90,3,2100
+4,08-22-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,90,3,2100
+2,08-20-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,145,3,2100
+3,08-21-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,73,3,2301
+2,08-30-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,73,3,2301
+4,09-01-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,74,3,2902
+3,08-27-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,74,3,2902
+4,08-29-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,64,3,1002
+3,08-21-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,64,3,1002
+5,08-28-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,87,3,2100
+4,08-30-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,87,3,2100
+3,08-29-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,70,4,1201
+2,08-21-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,70,4,1201
+5,08-26-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,92,4,2800
+4,08-27-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,92,4,2800
+2,08-31-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,101,4,2800
+6,08-31-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,94,4,2800
+5,09-01-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,94,4,2800
+3,08-22-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,73,4,3201
+2,09-01-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,73,4,3201
+4,08-31-17,06:45:00 PM,C,Clamping straps,Extremity Unit,3B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,68,4,1202
+3,08-26-18,09:23:00 AM,C,Clamping straps,Extremity Unit,3B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,68,4,1202
+5,08-22-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,71,4,2303
+4,08-31-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,71,4,2303
+6,08-28-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,88,4,2800
+5,08-27-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,88,4,2800
+4,08-26-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,71,4,1502
+3,09-01-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,71,4,1502
+5,08-29-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,89,4,2800
+4,09-01-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,89,4,2800
+6,08-22-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,91,4,2800
+5,08-23-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,91,4,2800
+5,08-31-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,146,4,2800
+3,08-21-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,146,4,2800
+1,08-21-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,76,4,2300
+4,08-22-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,74,4,2302
+3,08-31-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,74,4,2302
+5,09-02-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,75,4,2903
+4,08-28-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,75,4,2903
+5,08-30-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,65,4,1003
+4,08-22-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,65,4,1003
+6,08-29-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,88,4,2800
+5,08-31-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,88,4,2800
+4,08-30-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,71,5,1202
+3,08-22-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,71,5,1202
+6,08-27-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,93,5,3500
+5,08-28-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,93,5,3500
+4,08-31-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,102,5,3500
+3,09-01-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,102,5,3500
+7,09-01-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,95,5,3500
+6,09-02-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,95,5,3500
+4,08-23-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,74,5,3202
+3,09-02-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,74,5,3202
+5,09-01-17,06:45:00 PM,C,Clamping straps,Extremity Unit,4B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,69,5,1203
+4,08-27-18,09:23:00 AM,C,Clamping straps,Extremity Unit,4B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,69,5,1203
+6,08-23-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,72,5,2304
+5,09-01-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,72,5,2304
+7,08-29-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,89,5,3500
+6,08-28-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,89,5,3500
+5,08-27-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,72,5,1503
+4,09-02-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,72,5,1503
+1,08-26-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,84,5,3000
+6,08-30-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,90,5,3500
+5,09-02-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,90,5,3500
+2,08-21-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 1,121,5,3500
+2,08-25-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 100,153,5,3500
+7,08-23-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,92,5,3500
+6,08-24-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,92,5,3500
+6,09-01-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,147,5,3500
+4,08-22-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,147,5,3500
+3,08-23-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,77,5,2301
+2,08-22-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,77,5,2301
+5,08-23-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,75,5,2303
+4,09-01-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,75,5,2303
+6,09-03-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,76,5,2904
+5,08-29-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,76,5,2904
+6,08-31-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,66,5,1004
+5,08-23-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,66,5,1004
+7,08-30-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,89,5,3500
+6,09-01-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,89,5,3500
+5,08-31-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,72,6,1203
+4,08-23-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,72,6,1203
+7,08-28-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,94,6,4200
+6,08-29-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,94,6,4200
+5,09-01-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,103,6,4200
+4,09-02-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,103,6,4200
+8,09-02-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,96,6,4200
+7,09-03-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,96,6,4200
+5,08-24-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,75,6,3203
+4,09-03-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,75,6,3203
+6,09-02-17,06:45:00 PM,C,Clamping straps,Extremity Unit,5B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,70,6,1204
+5,08-28-18,09:23:00 AM,C,Clamping straps,Extremity Unit,5B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,70,6,1204
+7,08-24-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,73,6,2305
+6,09-02-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,73,6,2305
+2,08-19-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,84,6,4200
+8,08-30-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,90,6,4200
+7,08-29-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,90,6,4200
+6,08-28-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,73,6,1504
+5,09-03-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,73,6,1504
+3,08-24-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,85,6,3001
+2,08-27-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,85,6,3001
+7,08-31-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,91,6,4200
+6,09-03-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,91,6,4200
+4,08-21-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 2,122,6,4200
+3,08-22-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 2,122,6,4200
+5,08-21-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 101,154,6,4200
+3,08-26-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 101,154,6,4200
+8,08-24-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,93,6,4200
+7,08-25-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,93,6,4200
+7,09-02-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,148,6,4200
+5,08-23-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,148,6,4200
+4,08-24-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,78,6,2302
+3,08-23-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,78,6,2302
+6,08-24-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,76,6,2304
+5,09-02-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,76,6,2304
+7,09-04-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,77,6,2905
+6,08-30-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,77,6,2905
+7,09-01-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,67,6,1005
+6,08-24-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,67,6,1005
+8,08-31-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,90,6,4200
+7,09-02-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,90,6,4200
+6,09-01-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,73,7,1204
+5,08-24-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,73,7,1204
+8,08-29-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,95,7,4900
+7,08-30-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,95,7,4900
+6,09-02-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,104,7,4900
+5,09-03-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,104,7,4900
+9,09-03-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,97,7,4900
+8,09-04-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,97,7,4900
+6,08-25-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,76,7,3204
+5,09-04-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,76,7,3204
+7,09-03-17,06:45:00 PM,C,Clamping straps,Extremity Unit,6B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,71,7,1205
+6,08-29-18,09:23:00 AM,C,Clamping straps,Extremity Unit,6B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,71,7,1205
+8,08-25-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,74,7,2306
+7,09-03-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,74,7,2306
+4,08-25-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,85,7,4900
+3,08-20-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,85,7,4900
+9,08-31-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,91,7,4900
+8,08-30-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,91,7,4900
+7,08-29-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,74,7,1505
+6,09-04-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,74,7,1505
+4,08-25-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,86,7,3002
+3,08-28-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,86,7,3002
+8,09-01-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,92,7,4900
+7,09-04-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,92,7,4900
+5,08-22-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 3,123,7,4900
+4,08-23-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 3,123,7,4900
+6,08-22-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 102,155,7,4900
+4,08-27-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 102,155,7,4900
+9,08-25-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,94,7,4900
+8,08-26-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,94,7,4900
+8,09-03-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,149,7,4900
+6,08-24-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,149,7,4900
+5,08-25-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,79,7,2303
+4,08-24-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,79,7,2303
+7,08-25-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,77,7,2305
+6,09-03-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,77,7,2305
+8,09-05-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,78,7,2906
+7,08-31-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,78,7,2906
+8,09-02-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,68,7,1006
+7,08-25-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,68,7,1006
+9,09-01-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,91,7,4900
+8,09-03-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,91,7,4900
+2,08-26-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,137,7,4900
+7,09-02-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,74,8,1205
+6,08-25-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,74,8,1205
+9,08-30-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,96,8,5600
+8,08-31-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,96,8,5600
+7,09-03-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,105,8,5600
+6,09-04-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,105,8,5600
+10,09-04-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,98,8,5600
+9,09-05-18,09:23:00 AM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,98,8,5600
+7,08-26-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,77,8,3205
+6,09-05-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,77,8,3205
+8,09-04-17,06:45:00 PM,C,Clamping straps,Extremity Unit,7B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,72,8,1206
+7,08-30-18,09:23:00 AM,C,Clamping straps,Extremity Unit,7B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,72,8,1206
+9,08-26-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,75,8,2307
+8,09-04-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,75,8,2307
+5,08-26-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,86,8,5600
+4,08-21-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,86,8,5600
+10,09-01-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,92,8,5600
+9,08-31-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,92,8,5600
+8,08-30-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,75,8,1506
+7,09-05-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,75,8,1506
+5,08-26-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,87,8,3003
+4,08-29-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,87,8,3003
+9,09-02-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,93,8,5600
+8,09-05-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,93,8,5600
+6,08-23-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 4,124,8,5600
+5,08-24-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 4,124,8,5600
+7,08-23-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 103,156,8,5600
+5,08-28-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 103,156,8,5600
+10,08-26-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,95,8,5600
+9,08-27-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,95,8,5600
+9,09-04-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,150,8,5600
+7,08-25-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,150,8,5600
+6,08-26-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,80,8,2304
+5,08-25-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,80,8,2304
+8,08-26-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,78,8,2306
+7,09-04-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,78,8,2306
+9,09-06-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,79,8,2907
+8,09-01-18,09:23:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,79,8,2907
+9,09-03-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,69,8,1007
+8,08-26-18,08:22:00 AM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,69,8,1007
+10,09-02-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,92,8,5600
+9,09-04-18,08:27:00 AM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,92,8,5600
+4,08-26-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,138,8,5600
+3,08-27-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,138,8,5600
+8,09-03-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,75,9,1206
+7,08-26-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,75,9,1206
+10,08-31-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,97,9,6300
+9,09-01-18,08:27:00 AM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,97,9,6300
+8,09-04-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,106,9,6300
+7,09-05-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,106,9,6300
+11,09-05-18,06:45:00 PM,A,Clamping straps,Extremity Unit,Charger Power Line,Repairs,Insulators Adrift,Electrical, ,99,9,6300
+8,08-27-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,78,9,3206
+7,09-06-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,78,9,3206
+9,09-05-17,06:45:00 PM,C,Clamping straps,Extremity Unit,8B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,73,9,1207
+8,08-31-18,09:23:00 AM,C,Clamping straps,Extremity Unit,8B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,73,9,1207
+10,08-27-18,08:27:00 AM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,76,9,2308
+9,09-05-18,12:24:00 PM,D,Clamping straps,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical, ,76,9,2308
+6,08-27-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,87,9,6300
+5,08-22-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,87,9,6300
+11,09-02-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,93,9,6300
+10,09-01-18,06:45:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,93,9,6300
+9,08-31-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,76,9,1507
+8,09-06-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,76,9,1507
+6,08-27-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,88,9,3004
+5,08-30-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,88,9,3004
+10,09-03-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,94,9,6300
+9,09-06-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,94,9,6300
+7,08-24-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 5,125,9,6300
+6,08-25-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 5,125,9,6300
+8,08-24-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 104,157,9,6300
+6,08-29-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 104,157,9,6300
+11,08-27-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,96,9,6300
+10,08-28-18,12:24:00 PM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,96,9,6300
+10,09-05-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,151,9,6300
+8,08-26-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,151,9,6300
+7,08-27-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,81,9,2305
+6,08-26-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,81,9,2305
+9,08-27-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,79,9,2307
+8,09-05-18,12:24:00 PM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,79,9,2307
+10,09-07-18,08:27:00 AM,A,Pulley,Extremity Unit,Bunkers,SiloS,Crf Electrical Issues,Electrical,Transformer u/s unable to feed coal,80,9,2908
+10,09-04-18,12:24:00 PM,A,Pulley,Extremity Unit,Travel Sensor,North,Sensor Failure,Electrical,losing sensor whilst travelling and ram got stuck in dead section.,70,9,1008
+2,08-29-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,199,9,6300
+11,09-03-19,06:45:00 PM,C,Pulley,Extremity Unit,Latch Bars,Bottom Slew Mechanism Free Pin,Unknown Mechanical Failure,Mechanical,Latch mech finger damaged,93,9,6300
+5,08-27-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,139,9,6300
+4,08-28-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,139,9,6300
+9,09-04-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,76,10,1207
+8,08-27-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,76,10,1207
+11,09-01-19,12:24:00 PM,B,Clamping straps,Extremity Unit,Delay,Plant Issues,By-Products Delay,Operational Unplanned,Instrument air lost over by-products,98,10,7000
+9,09-05-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,107,10,7000
+8,09-06-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,107,10,7000
+3,08-19-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,216,10,7000
+9,08-28-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,79,10,3207
+8,09-07-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,79,10,3207
+10,09-06-17,06:45:00 PM,C,Clamping straps,Extremity Unit,9B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,74,10,1208
+9,09-01-18,09:23:00 AM,C,Clamping straps,Extremity Unit,9B,Loadcell,Unknown Electrical Failure,Electrical,unable to drop coal attendedto by electricians,74,10,1208
+7,08-28-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,88,10,7000
+6,08-23-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,88,10,7000
+12,09-03-19,12:24:00 PM,D,Counter-bearings,Driving unit,Drive,Motor Cable,Unknown Electrical Failure,Electrical,Cable and sensor changed on No4 screw counter.,94,10,7000
+10,09-01-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,77,10,1508
+9,09-07-18,06:45:00 PM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,77,10,1508
+7,08-28-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,89,10,3005
+6,08-31-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,89,10,3005
+11,09-04-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,95,10,7000
+10,09-07-18,09:23:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,95,10,7000
+8,08-25-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 6,126,10,7000
+7,08-26-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 6,126,10,7000
+9,08-25-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 105,158,10,7000
+7,08-30-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 105,158,10,7000
+12,08-28-18,09:23:00 AM,C,Motor bracket,Driving unit,Reservoir,Oil Level,Low,Mechanical,both tanks empty/low. topped up.,97,10,7000
+11,09-06-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,152,10,7000
+9,08-27-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,152,10,7000
+8,08-28-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,82,10,2306
+7,08-27-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,82,10,2306
+10,08-28-19,09:23:00 AM,D,Pulley,Extremity Unit,Track/Rails,Rail,Cleaning/Inspection,Operational Unplanned,Automated loco tag set up,80,10,2308
+3,08-30-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,200,10,7000
+6,08-28-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,140,10,7000
+5,08-29-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,140,10,7000
+10,09-05-18,12:24:00 PM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,77,11,1208
+9,08-28-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Pick Up,Arm - Top,Arm Derailed,Electrical,Guards caught in collector gear,77,11,1208
+10,09-06-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,108,11,7700
+9,09-07-18,12:24:00 PM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,108,11,7700
+4,08-20-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,217,11,7700
+10,08-29-19,12:24:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,80,11,3208
+9,09-08-18,06:45:00 PM,C,Clamping straps,Extremity Unit,Inverter Drive,Batch Speed Control,Unknown Electrical Failure,Electrical,Fault finding batch speed issue,80,11,3208
+8,08-29-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,89,11,7700
+7,08-24-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,89,11,7700
+11,09-02-18,09:23:00 AM,C,Drive (electrical),Driving unit,Reservoir,Tank,Empty,Mechanical,Main tank & reserve tank empty,78,11,1509
+8,08-29-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,90,11,3006
+7,09-01-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,90,11,3006
+12,09-05-19,08:27:00 AM,D,Drive (electrical),Driving unit,C Frame,Locking Pin,Unknown Mechanical Failure,Mechanical,locating pin on extractor adrift,96,11,7700
+9,08-26-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 7,127,11,7700
+8,08-27-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 7,127,11,7700
+10,08-26-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 106,159,11,7700
+8,08-31-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 106,159,11,7700
+12,09-07-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,153,11,7700
+10,08-28-19,09:23:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,153,11,7700
+9,08-29-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,83,11,2307
+8,08-28-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,83,11,2307
+4,08-31-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,201,11,7700
+7,08-29-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,141,11,7700
+6,08-30-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,141,11,7700
+11,09-07-18,08:27:00 AM,C,Clamping straps,Extremity Unit,Delay,Plant Issues,Exhauster Failure,Operational Unplanned,Exhauster failure and inst air failure... plant on stop after down day.,109,12,8400
+5,08-21-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,218,12,8400
+9,08-30-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,90,12,8400
+8,08-25-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,90,12,8400
+3,08-24-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,445,12,8400
+9,08-30-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,91,12,3007
+8,09-02-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,91,12,3007
+10,08-27-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 8,128,12,8400
+9,08-28-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 8,128,12,8400
+11,08-27-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 107,160,12,8400
+9,09-01-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 107,160,12,8400
+13,09-08-18,08:27:00 AM,A,Motor bracket,Driving unit,Track/Rails,Rail,Sheared,Mechanical,west rail changed.,154,12,8400
+10,08-30-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,84,12,2308
+9,08-29-18,08:27:00 AM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,84,12,2308
+5,09-01-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,202,12,8400
+8,08-30-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,142,12,8400
+7,08-31-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,142,12,8400
+6,08-22-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,219,13,9100
+10,08-31-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,91,13,9100
+9,08-26-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,91,13,9100
+4,08-25-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,446,13,9100
+10,08-31-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,92,13,3008
+9,09-03-18,09:23:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,92,13,3008
+11,08-28-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 9,129,13,9100
+10,08-29-18,06:45:00 PM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 9,129,13,9100
+12,08-28-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 108,161,13,9100
+10,09-02-18,12:24:00 PM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 108,161,13,9100
+11,08-31-19,06:45:00 PM,D,Motor bracket,Driving unit,Ram Power Line,Repairs,Tee Bar Distorted,Mechanical,Mini stop to repair ram tee bars and quencher heat shield,85,13,2309
+6,09-02-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,203,13,9100
+9,08-31-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,143,13,9100
+8,09-01-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,143,13,9100
+7,08-23-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,220,14,9800
+11,09-01-19,09:23:00 AM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,92,14,9800
+10,08-27-18,12:24:00 PM,B,Clamping straps,Extremity Unit,Charging,Pressure In Chamber,Unknown Mechanical Failure,Mechanical,askania failed 22-42 impulse line found blocked from askania to collector main,92,14,9800
+5,08-26-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,447,14,9800
+11,09-01-19,08:27:00 AM,B,Drive (electrical),Driving unit,Hooks,Bottom Hook Jaw Liner,Unknown Mechanical Failure,Mechanical,failed to remove door before sbt,93,14,3009
+12,08-29-18,09:23:00 AM,B,Motor bracket,Driving unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,issue with gas reversal on bat 10,130,14,9800
+13,08-29-18,09:23:00 AM,A,Motor bracket,Driving unit,Heating,Motor Cable,high Temps,Operational Unplanned,Temps very high on 109,162,14,9800
+7,09-03-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,204,14,9800
+10,09-01-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,144,14,9800
+9,09-02-18,08:27:00 AM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,144,14,9800
+8,08-24-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,221,15,10500
+6,08-27-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,448,15,10500
+8,09-04-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,205,15,10500
+11,09-02-18,12:24:00 PM,A,Pulley,Extremity Unit,Pullman V/V,Change,Unplanned Change Due To Failure,Operational Unplanned,Planned p/man change on No.66 also jetting of distrubution p/work in quencher,145,15,10500
+9,08-25-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,222,16,11200
+7,08-28-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,449,16,11200
+9,09-05-18,06:45:00 PM,A,Pulley,Extremity Unit,Inverter Drive,A.C.S. Control Panel,Unknown Electrical Failure,Electrical,Iverter u/s fault finding ongoing..,206,16,11200
+10,08-26-18,08:27:00 AM,A,Clamping straps,Extremity Unit,Heating,Motor Cable,Gallery Issues,Operational Unplanned,No1 battery waste heat chains off sprockets.,223,17,11900
+8,08-29-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,450,17,11900
+9,08-30-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,451,18,12600
+10,08-31-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,452,19,13300
+11,09-01-18,09:23:00 AM,C,Counter-bearings,Driving unit,Charger Power Line,Repairs,Insulators Adrift,Electrical,Catinary support wire snapped by 16 r/s,453,20,14000
