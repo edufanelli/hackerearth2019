@@ -132,4 +132,4 @@ class Conversation_bot_context(models.Model):
         """
         String for representing the Model object (in Admin site etc.)
         """
-        return str(self.timestamp) + " " + self.Conversation_bot_context
+        return self.conversation

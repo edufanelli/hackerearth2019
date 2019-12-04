@@ -157,8 +157,8 @@ def insert_order(update,context,entities):
     else:
         if int(save_point_insert_order) < 1:
 
-            response = 'I see that the order is to {}.'.format(client)
-            context.bot.send_message(chat_id=update.effective_chat.id, text=response)
+            #response = 'I see that the order is to {}.'.format(client)
+            #context.bot.send_message(chat_id=update.effective_chat.id, text=response)
 
             if product == '':
                 response = 'And which product {} wants? '.format(client)
@@ -312,26 +312,27 @@ def insert_problem(update,context,entities):
     #print('save_point_insert_problem',save_point_insert_problem)
 
     if conveyor_belt == '':
-        response = "Wich convertor belt has the problem? {}, let me help, here is a list of our conveyor belts:".format(user_name)
+        response = "Which convertor belt has the problem? {}, let me help, here is a list of our conveyor belts:".format(user_name)
         context.bot.send_message(chat_id=update.effective_chat.id, text=response)
-        for conveyor_belt in conveyor_belt_list:
-            response = conveyor_belt
+        for cb in conveyor_belt_list:
+            response = cb
             context.bot.send_message(chat_id=update.effective_chat.id, text=response)
     else:
         if machine == '':
-            response = "Wich machine has the problem? {}, let me help, here is a list of our machines:".format(user_name)
+            response = "Which machine has the problem? {}, let me help, here is a list of our machines:".format(user_name)
             context.bot.send_message(chat_id=update.effective_chat.id, text=response)
-            for machine in machine_list:
-                response = machine
+            for m in machine_list:
+                response = m
                 context.bot.send_message(chat_id=update.effective_chat.id, text=response)
         else:
             #print('failure_mode_int',failure_mode)
             if failure_mode == '':
-                response = "What is the failure? {}, let me help, here is a list of our failures:".format(user_name)
+                response = "What is the failure? {}, let me help, here is a list of our failures:\n".format(user_name)
                 context.bot.send_message(chat_id=update.effective_chat.id, text=response)
-                for failure_mode in failure_mode_list:
-                    response = failure_mode
-                    context.bot.send_message(chat_id=update.effective_chat.id, text=response)
+                for fm in failure_mode_list:
+                    response += fm + "\n"
+                
+                context.bot.send_message(chat_id=update.effective_chat.id, text=response)
 
     conveyor_belt_1 = ''
     if  conveyor_belt == 'BELT A':
@@ -380,9 +381,9 @@ def view_problem(update,context):
         context.bot.send_message(chat_id=update.effective_chat.id, text=response)
         response = "Problem : {}".format(falha)
         context.bot.send_message(chat_id=update.effective_chat.id, text=response)
-        response = "Avg_repair_time : {} hour(s)".format(tempo)
+        response = "Average repair time: {} hour(s)".format(tempo)
         context.bot.send_message(chat_id=update.effective_chat.id, text=response)
-        response = "Avg_repair_cost:$ {:,.2f}".format(custo)
+        response = "Average repair cost:$ {:,.2f}".format(custo)
         context.bot.send_message(chat_id=update.effective_chat.id, text=response )
         Conversation_bot_context.objects.filter(conversation=id_user).delete()
 
@@ -402,7 +403,8 @@ def pam_help(update,context):
 
 def start_bot():
     print('Starting Telegram Bot...')
-    updater = Updater(token='809750641:AAGoDOgxgnAzhIk3OYfXhWkAfEcgjUmzuPo', use_context=True)
+    #updater = Updater(token='809750641:AAGoDOgxgnAzhIk3OYfXhWkAfEcgjUmzuPo', use_context=True)
+    updater = Updater(token='854619524:AAHPQQmFLzZL5AIPSvr62zHLcnJLI3GfUkk', use_context=True)
     dispatcher = updater.dispatcher
 
     logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
